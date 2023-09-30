@@ -1,4 +1,4 @@
-![IMG-20230930-WA0006](https://github.com/amisharamani/firebase_chat_app/assets/130687844/a3a423ad-3092-42ca-99f8-646bf836b3cf)    # firebase_chat_app
+ # firebase_chat_app
 
 A new Flutter project.
 ![IMG-20230930-WA0008](https://github.com/amisharamani/firebase_chat_app/assets/130687844/65035e97-29b3-4bf6-9729-8938296e557f)
